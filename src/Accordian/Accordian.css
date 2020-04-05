@@ -1,0 +1,5 @@
+ul{margin:0;padding:0}
+li{list-style: none;display:inline-block; padding:10px 15px;
+border:1px solid #ccc;margin:0}
+.accrdData{border:1px solid #ccc;padding:15px}
+.accordian{margin:20px;text-align:left;}
